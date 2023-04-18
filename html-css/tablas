@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tablas HTML</title>
+</head>
+<body>
+    <header>
+        <h2>Ejercicio 02/2 - Tablas en HTML</h2>
+    </header>
+    <table>
+        <tr>
+            <th>Titulo</th>
+            <th>Autor</th>
+            <th>Año de publicación</th>
+            <th>Enlace a Amazon</th>
+        </tr>
+        <tr>
+            <td>El ruiseñor y la rosa</td>
+            <td>Oscar Wilde</td>
+            <td>1888</td>
+            <td><a href="https://www.amazon.com/-/es/Oscar-Wilde/dp/1533692769">Comprar</a></td>
+        </tr>
+        <tr>
+            <td>Ética nicomáquea</td>
+            <td>Aristóteles</td>
+            <td>349 a. C.</td>
+            <td><a href="https://www.amazon.es/%C3%89tica-Nic%C3%B3maco-TEXTOS-CL%C3%81SICOS-ARISTOTELES/dp/8424926366/ref=sr_1_1?keywords=etica+a+nicomaco+aristoteles&qid=1681783278&s=books&sr=1-1">Comprar</a></td>
+        </tr>
+        <tr>
+            <td>Drácula</td>
+            <td>Bram Stoker</td>
+            <td>1897</td>
+            <td><a href="https://www.amazon.com/-/es/Bram-Stoker/dp/1503261387">Comprar</a></td>
+        </tr>
+    </table>
+</body>
+</html>
